@@ -1,0 +1,425 @@
+[
+  {
+    "courseCode": "CHLT1001-1",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Monday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "CHLT1002-1",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "ENGG1003-1",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Monday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "ENGG2440A",
+    "teachers": "Prof. HO Tsung Yi",
+    "class": "LEC",
+    "room": "ERB LT",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "09:30-10:15"
+  },
+  {
+    "courseCode": "ENGG2440B",
+    "teachers": "Prof. LI Cheuk Ting",
+    "class": "LEC",
+    "room": "SC L4",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "09:30-10:15"
+  },
+  {
+    "courseCode": "ENGG1003-2",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Monday",
+    "timeSlot": "11:30-12:15"
+  },
+  {
+    "courseCode": "ENGG1110A",
+    "teachers": "Dr. JIANG Yuli",
+    "class": "LEC",
+    "room": "LSK LT2",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "12:30-13:15"
+  },
+  {
+    "courseCode": "ENGG1110B",
+    "teachers": "Dr. KAM Ho Chuen",
+    "class": "LEC",
+    "room": "Sino Building LT2",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "12:30-13:15"
+  },
+  {
+    "courseCode": "ENGG1110C",
+    "teachers": "Mr. FUNG Ping Fu",
+    "class": "LEC",
+    "room": "YIA LT5",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "12:30-13:15"
+  },
+  {
+    "courseCode": "ENGG1110D",
+    "teachers": "Dr. CHAU Chuck Jee",
+    "class": "LEC",
+    "room": "YIA LT7",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "12:30-13:15"
+  },
+  {
+    "courseCode": "ENGG5105",
+    "teachers": "Ms. CHAN Lee Ping, Prof. MENG Wei",
+    "class": "LEC",
+    "room": "TBA",
+    "duration": 3,
+    "day": "Monday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "CHLT1002-2",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Monday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "ENGG5105",
+    "teachers": "",
+    "class": "TUT",
+    "room": "ERB 803",
+    "duration": 1,
+    "day": "Monday",
+    "timeSlot": "17:30-18:15"
+  },
+  {
+    "courseCode": "ENGG2760A",
+    "teachers": "Prof. Farzan FARNIA",
+    "class": "LEC",
+    "room": "LSB LT1",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "09:30-10:15"
+  },
+  {
+    "courseCode": "CHLT1001-2",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Tuesday",
+    "timeSlot": "10:30-11:15"
+  },
+  {
+    "courseCode": "CHLT1002-3",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "10:30-11:15"
+  },
+  {
+    "courseCode": "ENGG1003-3",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Tuesday",
+    "timeSlot": "10:30-11:15"
+  },
+  {
+    "courseCode": "ENGG2760A",
+    "teachers": "",
+    "class": "TUT",
+    "room": "BMS LT",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:15"
+  },
+  {
+    "courseCode": "ENGG2760A",
+    "teachers": "",
+    "class": "TUT",
+    "room": "MMW 705",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:15"
+  },
+  {
+    "courseCode": "ENGG2760A",
+    "teachers": "",
+    "class": "TUT",
+    "room": "ERB 703",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "11:30-12:15"
+  },
+  {
+    "courseCode": "CHLT1001-3",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Tuesday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "CHLT1002-4",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Tuesday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "CHLT1001-4",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Wednesday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "CHLT1002-5",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Wednesday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "ENGG1003-4",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Wednesday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "BMEG3105",
+    "teachers": "Prof. LI Yu",
+    "class": "LEC",
+    "room": "MMW 703",
+    "duration": 2,
+    "day": "Wednesday",
+    "timeSlot": "09:30-10:15"
+  },
+  {
+    "courseCode": "ENGG1003-5",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Wednesday",
+    "timeSlot": "11:30-12:15"
+  },
+  {
+    "courseCode": "CHLT1002-6",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Wednesday",
+    "timeSlot": "12:30-13:15"
+  },
+  {
+    "courseCode": "ENGG2440A",
+    "teachers": "Prof. HO Tsung Yi",
+    "class": "LEC",
+    "room": "ERB LT",
+    "duration": 1,
+    "day": "Wednesday",
+    "timeSlot": "13:30-14:15"
+  },
+  {
+    "courseCode": "ENGG2440B",
+    "teachers": "Prof. LI Cheuk Ting",
+    "class": "LEC",
+    "room": "SC L4",
+    "duration": 1,
+    "day": "Wednesday",
+    "timeSlot": "13:30-14:15"
+  },
+  {
+    "courseCode": "CHLT1001-5",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Wednesday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "ENGG1003-6",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Wednesday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "CHLT1001-6",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Thursday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "CHLT1001-7",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Thursday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "CHLT1002-7",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 2,
+    "day": "Thursday",
+    "timeSlot": "14:30-15:15"
+  },
+  {
+    "courseCode": "ENGG1110A",
+    "teachers": "Dr. JIANG Yuli",
+    "class": "LEC",
+    "room": "LSK LT2",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "15:30-16:15"
+  },
+  {
+    "courseCode": "ENGG1110B",
+    "teachers": "Dr. KAM Ho Chuen",
+    "class": "LEC",
+    "room": "Sino Building LT2",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "15:30-16:15"
+  },
+  {
+    "courseCode": "ENGG1110C",
+    "teachers": "Mr. FUNG Ping Fu",
+    "class": "LEC",
+    "room": "YIA LT5",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "15:30-16:15"
+  },
+  {
+    "courseCode": "ENGG1110D",
+    "teachers": "Dr. CHAU Chuck Jee",
+    "class": "LEC",
+    "room": "YIA LT7",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "15:30-16:15"
+  },
+  {
+    "courseCode": "ENGG1110A",
+    "teachers": "Dr. JIANG Yuli",
+    "class": "LAB",
+    "room": "LSK LT2",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "16:30-17:15"
+  },
+  {
+    "courseCode": "ENGG1110B",
+    "teachers": "Dr. KAM Ho Chuen",
+    "class": "LAB",
+    "room": "YIA LT6",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "16:30-17:15"
+  },
+  {
+    "courseCode": "ENGG1110C",
+    "teachers": "Mr. FUNG Ping Fu",
+    "class": "LAB",
+    "room": "YIA LT5",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "16:30-17:15"
+  },
+  {
+    "courseCode": "ENGG1110D",
+    "teachers": "Dr. CHAU Chuck Jee",
+    "class": "LAB",
+    "room": "LSK LT3",
+    "duration": 1,
+    "day": "Thursday",
+    "timeSlot": "16:30-17:15"
+  },
+  {
+    "courseCode": "CHLT1001-8",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Friday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "ENGG1003-7",
+    "teachers": "",
+    "class": "LEC",
+    "room": "",
+    "duration": 3,
+    "day": "Friday",
+    "timeSlot": "08:30-09:15"
+  },
+  {
+    "courseCode": "BMEG3105",
+    "teachers": "Prof. LI Yu",
+    "class": "LEC",
+    "room": "MMW 703",
+    "duration": 1,
+    "day": "Friday",
+    "timeSlot": "09:30-10:15"
+  },
+  {
+    "courseCode": "BMEG3105",
+    "teachers": "Prof. LI Yu",
+    "class": "TUT",
+    "room": "MMW 703",
+    "duration": 1,
+    "day": "Friday",
+    "timeSlot": "10:30-11:15"
+  }
+]

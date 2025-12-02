@@ -1,6 +1,9 @@
 # FYP_T1_Demo
 Website: https://orariogrid.vercel.app/
 
+# Log-in
+team.orario.app@gmail.com
+1q2w3e4raBc
 
 # Demo file
 <b>2025-26T1.json</b>: timetable of 2025-26 Term 1 courses offered by CSE department in JSON format
